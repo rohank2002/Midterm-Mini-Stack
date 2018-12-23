@@ -1,4 +1,4 @@
-![Architecture Diagram]()
+![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/Diagram.PNG)
 ### Part 1: AWS Managed Database Instances Setup
 In this section, you will configure MySQL and Redis as AWS Managed Services.  Following the configuration steps below:
 
@@ -65,8 +65,8 @@ cd redis-stable
 make
 src/redis-cli -h <host> -p 6379
 ```
-![RDS Security Groups]()
-![ElastiCache Security Gropus]()
+![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/RDS%20SG.PNG)
+![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/ElstiCachhe%20SG.PNG)
 
 ### Part 2: Deploy Gumball Cluster with an Internal ELB
 
