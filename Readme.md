@@ -108,20 +108,27 @@ get <key>
 * Configure Kong to route to the internal Gumball ELB as an upstream API
 * Add an API Key in Kong to the Gumball Load Balanced API
 
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+Kong Container Dockerized
+![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/Kong%20container.PNG)
+
+
+![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/APIS.PNG)
+![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/Add%20API.PNG)
+
+Consumer Created
+
+![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/consumer.PNG)
+
+Key Value set
+
+![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/Key-auth.PNG)
+
+Testing
+
+![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/ping.PNG)
+![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/gumball.PNG)
+![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/order.PNG)
+![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/processed.PNG)
+
+
 
