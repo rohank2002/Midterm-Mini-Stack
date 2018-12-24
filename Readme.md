@@ -102,3 +102,9 @@ get <key>
 ![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/Curl.PNG)
 ![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/mysql.PNG)
 
+### Part 3: Deploy Kong API Gateway with Auth Key to Gumball
+
+* Deploy Kong API gateway on your publicly facing Docker Host (from Labs)
+* Configure Kong to route to the internal Gumball ELB as an upstream API
+* Add an API Key in Kong to the Gumball Load Balanced API
+
