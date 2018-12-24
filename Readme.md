@@ -108,3 +108,20 @@ get <key>
 * Configure Kong to route to the internal Gumball ELB as an upstream API
 * Add an API Key in Kong to the Gumball Load Balanced API
 
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+
