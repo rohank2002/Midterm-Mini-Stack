@@ -131,4 +131,10 @@ Testing
 ![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/processed.PNG)
 
 
+### Part 4: Modify & Deploy Node.js on a Local Docker Instance
 
+* Modify the code in Node.js to point at your AWS Kong API Gateway
+* Deploy the Node.js App to you local docker host
+* Run the Node.js App
+![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/NodeJs1.PNG)
+![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/NodeJs2.PNG)
