@@ -78,5 +78,27 @@ src/redis-cli -h <host> -p 6379
 After you have the this up, test the Gumball API with the following CURL commands:
 Note:  Replace "host" with the DNS name of your ELB.
 
+```sh
+curl http://host:3000/ping (Links to an external site.)Links to an external site.
+curl -X GET http://host:3000/gumball (Links to an external site.)Links to an external site. 
+curl -X POST http://host:3000/order (Links to an external site.)Links to an external site. 
+curl -X POST http://host:3000/order/<orderid> (Links to an external site.)Links to an external site.
+```
+Then connect to your MySQL and Redis instances and run the following commands:
 
+MySQL: 
+```sh
+select * from gumball
+```
+
+Redis: 
+```sh
+keys *
+get <key>
+```
+![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/ELB.PNG)
+![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/gumball%20run.PNG)
+![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/Image%20pull.PNG)
+![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/Curl.PNG)
+![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/mysql.PNG)
 
